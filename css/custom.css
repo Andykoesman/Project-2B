@@ -1,0 +1,32 @@
+.section-profile{
+    margin-top: 80px;
+    border-bottom: 1px solid #720a0a;
+    padding-bottom: 80px;
+}
+
+.section-profile .profile-item{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    padding: 30px;
+    height: 500px;
+    justify-content: space-between;
+}
+
+.section-profile .profile-item img{
+    width: 100px;
+    height: 100px;
+    border-radius: 200px;
+}
+
+.section-profile .profile-item p{
+    height: 150px;
+    overflow-y: hidden;
+}
+
+.section-ads{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #720a0a;
+}
